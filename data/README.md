@@ -12,11 +12,13 @@ The file "data.csv" contains the data used in the analysis.
 `Pre_TPEother`: Perceived influence of bots on others in the pretest.  
 `Post_TPEother`: Perceived influence of bots on others in the posttest.  
 
+### Perceived self ability to recognize bots (i.e., self-efficicacy)
+`Pre_eff_ave`: Perceived self-efficacy of recognizing bots in the pretest.  
+`Post_eff_ave`: Perceived self-efficacy of recognizing bots in the posttest.  
+
 ### Policy Preferences
 `Pre_rstc`: Preference of level of restrictions about bots in the pretest.  
 `Post_rstc`: Preference of level of restrictions about bots in the posttest.  
-`Pre_eff_ave`: Perceived self-efficacy of recognizing bots in the pretest.
-`Post_eff_ave`: Perceived self-efficacy of recognizing bots in the posttest.  
 `reg_cpn`: Ranked preference of "regulation against social media companies" as the countermeasure against bot manipulation.  
 `law_manu`: Ranked preference of "law and regulation against bot manufacture and operation" as the countermeasure against bot manipulation.  
 `self_cpn`: Ranked preference of "social media companies self regulations" as the countermeasure against bot manipulation.  
