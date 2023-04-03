@@ -2,6 +2,8 @@
 
 This repository is used to release the data and code for the paper ["Exposure to social bots amplifies perceptual biases and regulation propensity."](https://osf.io/ap2qf/)
 
+Data is available in the data folder. 
+
 # Cite the paper
 
 Please cite the paper as 
